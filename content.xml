@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505194619R0N5DO</value>
+    <value>20260505195358O3WCIS</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505194619MFKQP6</value>
+    <value>20260505195358PVCE4X</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1109,12 +1109,44 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
 <odeNavStructure>
   <odePageId>page-mossrkhm-tu01sk7sy</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>6. Atribución y fichero descargable.</pageName>
+  <pageName>6. Atribución y enlace</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>6. Atribución y fichero descargable.</value>
+      <value>6. Atribución y enlace</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y enlace</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y enlace</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>

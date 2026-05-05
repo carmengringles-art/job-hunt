@@ -22,7 +22,7 @@ window.__ELPX_MANIFEST__={
     "html/3-metodologias-activas.html",
     "html/4-vinculacion-con-los-proyectos-y-programas-del-ce.html",
     "html/5-actividades-complementarias-y-extraescolares.html",
-    "html/6-atribucion-y-fichero-descargable.html",
+    "html/6-atribucion-y-enlace.html",
     "html/descarga-este-exe.html",
     "content.xml",
     "content/css/base.css",
