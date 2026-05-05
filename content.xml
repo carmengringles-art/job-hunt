@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605051916207M5TBF</value>
+    <value>20260505194619R0N5DO</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026050519162016CKZ4</value>
+    <value>20260505194619MFKQP6</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1157,6 +1157,84 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
 <p><a href="https://carmengringles-art.github.io/job-hunt/" title="">Enlace</a></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998086844-g32q64zpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>licencia CC BY-SA 4.0</p>\n<p><a href=\"https://carmengringles-art.github.io/job-hunt/\" title=\"\">Enlace</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778003026981-e9v70e9jg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este exe</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este exe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778003026981-e9v70e9jg</odePageId>
+      <odeBlockId>block-1778003083137-eg5smrl7f</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778003026981-e9v70e9jg</odePageId>
+          <odeBlockId>block-1778003083137-eg5smrl7f</odeBlockId>
+          <odeIdeviceId>idevice-1778003083134-suhynynic</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Your Future Starts Here</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta situación de aprendizaje, el alumnado de 2º curso del Ciclo Formativo de Grado Medio en Administración y Gestión_ módulo Inglés Complementario_ desarrollará las competencias necesarias para enfrentarse a un proceso de búsqueda de empleo en inglés.
+A lo largo de cuatro sesiones, el alumnado elaborará su currículum vitae y carta de presentación en inglés, preparará y simulará entrevistas de trabajo y diseñará recursos digitales para consolidar lo aprendido.
+La propuesta busca aumentar la motivación del grupo mediante la creación de productos útiles y reales para su futuro profesional, integrando herramientas digitales y dinámicas activas que favorezcan su implicación.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carmen Mª González Ramos</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
