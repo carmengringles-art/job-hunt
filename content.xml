@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505183001ERL5I6</value>
+    <value>20260505185416Q8B39B</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505183001K55H0F</value>
+    <value>20260505185416T88HEF</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -169,7 +169,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997437048-vqqwcblge</odePageId>
       <odeBlockId>block-1777997439443-33gx0ajnd</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Etapa y nivel</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -227,7 +227,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997509643-mfmvac9di</odePageId>
       <odeBlockId>block-1777997511941-wlamrqyaq</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Módulo</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -285,7 +285,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997565697-q7b1jyubj</odePageId>
       <odeBlockId>block-1777997567530-55rys0kpy</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Agrupamientos y organización espacial</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -343,7 +343,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997636982-ke30yd7n5</odePageId>
       <odeBlockId>block-1777997638993-6l7mfeh6j</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Temporalización</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -407,7 +407,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997814779-ghk108lfx</odePageId>
       <odeBlockId>block-1777997817008-3ozogg992</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Productos finales</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -465,7 +465,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-1777997882609-vzgewi23q</odePageId>
       <odeBlockId>block-1777997884728-86pzriube</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Herramientas</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -995,7 +995,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-mossrkhm-6nv2pgmqn</odePageId>
       <odeBlockId>block-1777997001394-1lhlgoahf</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Vinculación</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1061,7 +1061,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-mossrkhm-jd94x9x80</odePageId>
       <odeBlockId>block-1777998322897-fw8m0mz90</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Actividades complementarias</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1121,7 +1121,7 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
     <odePagStructure>
       <odePageId>page-mossrkhm-tu01sk7sy</odePageId>
       <odeBlockId>block-1777998086846-7fantnm4b</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Atribución</blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1154,9 +1154,9 @@ La propuesta busca aumentar la motivación del grupo mediante la creación de pr
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>licencia CC BY-SA 4.0</p>
-<p>Enlace</p>
+<p><a href="https://carmengringles-art.github.io/job-hunt/" title="">Enlace</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998086844-g32q64zpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>licencia CC BY-SA 4.0</p>\n<p>Enlace</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998086844-g32q64zpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>licencia CC BY-SA 4.0</p>\n<p><a href=\"https://carmengringles-art.github.io/job-hunt/\" title=\"\">Enlace</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
