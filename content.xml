@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505183001ERL5I6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505183001K55H0F</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Your Future Starts Here</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Preparing your job search in English</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen Mª González Ramos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta situación de aprendizaje, el alumnado de 2º curso del Ciclo Formativo de Grado Medio en Administración y Gestión_ módulo Inglés Complementario_ desarrollará las competencias necesarias para enfrentarse a un proceso de búsqueda de empleo en inglés.
+A lo largo de cuatro sesiones, el alumnado elaborará su currículum vitae y carta de presentación en inglés, preparará y simulará entrevistas de trabajo y diseñará recursos digitales para consolidar lo aprendido.
+La propuesta busca aumentar la motivación del grupo mediante la creación de productos útiles y reales para su futuro profesional, integrando herramientas digitales y dinámicas activas que favorezcan su implicación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777996000312</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-aafolvieb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-aafolvieb</odePageId>
+      <odeBlockId>block-1777996071408-244u1sax0</odeBlockId>
+      <blockName>Your Future Starts Here</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-aafolvieb</odePageId>
+          <odeBlockId>block-1777996071408-244u1sax0</odeBlockId>
+          <odeIdeviceId>idevice-1777996071404-sydvz1knv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje, el alumnado de 2º curso del Ciclo Formativo de Grado Medio en Administración y Gestión desarrollará las competencias necesarias para enfrentarse a un proceso de búsqueda de empleo en inglés.</p>
+<p>A lo largo de varias sesiones, el alumnado elaborará su currículum vitae y carta de presentación en inglés, preparará y simulará entrevistas de trabajo y diseñará recursos digitales para consolidar lo aprendido.</p>
+<p>La propuesta busca aumentar la motivación del grupo mediante la creación de productos útiles y reales para su futuro profesional, integrando herramientas digitales y dinámicas activas que favorezcan su implicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996071404-sydvz1knv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje, el alumnado de 2º curso del Ciclo Formativo de Grado Medio en Administración y Gestión desarrollará las competencias necesarias para enfrentarse a un proceso de búsqueda de empleo en inglés.</p>\n<p>A lo largo de varias sesiones, el alumnado elaborará su currículum vitae y carta de presentación en inglés, preparará y simulará entrevistas de trabajo y diseñará recursos digitales para consolidar lo aprendido.</p>\n<p>La propuesta busca aumentar la motivación del grupo mediante la creación de productos útiles y reales para su futuro profesional, integrando herramientas digitales y dinámicas activas que favorezcan su implicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997437048-vqqwcblge</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Etapa y nivel</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Etapa y nivel</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997437048-vqqwcblge</odePageId>
+      <odeBlockId>block-1777997439443-33gx0ajnd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997437048-vqqwcblge</odePageId>
+          <odeBlockId>block-1777997439443-33gx0ajnd</odeBlockId>
+          <odeIdeviceId>idevice-1777997439441-1l2j3hvod</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ciclo Formativo de Grado Medio (FP) – 2º curso (Administración y Gestión)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997439441-1l2j3hvod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ciclo Formativo de Grado Medio (FP) – 2º curso (Administración y Gestión)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997509643-mfmvac9di</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Módulo</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997509643-mfmvac9di</odePageId>
+      <odeBlockId>block-1777997511941-wlamrqyaq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997509643-mfmvac9di</odePageId>
+          <odeBlockId>block-1777997511941-wlamrqyaq</odeBlockId>
+          <odeIdeviceId>idevice-1777997511940-1w4zd2eqj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Inglés Complementario</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997511940-1w4zd2eqj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Inglés Complementario</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997565697-q7b1jyubj</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Agrupamientos y organización espacial</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Agrupamientos y organización espacial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997565697-q7b1jyubj</odePageId>
+      <odeBlockId>block-1777997567530-55rys0kpy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997565697-q7b1jyubj</odePageId>
+          <odeBlockId>block-1777997567530-55rys0kpy</odeBlockId>
+          <odeIdeviceId>idevice-1777997567529-5p4ccnq2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Trabajo individual: elaboración del CV y carta de presentación<br />Trabajo en parejas: preparación de entrevistas (role-play)<br />Pequeños grupos: diseño de la infografía y creación del videojuego<br />Gran grupo: puesta en común y presentaciones<br />Espacios: aula ordinaria (Tecnología norte) con acceso a ordenadores o dispositivos digitales, proyector e internet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997567529-5p4ccnq2y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trabajo individual: elaboración del CV y carta de presentación<br />Trabajo en parejas: preparación de entrevistas (role-play)<br />Pequeños grupos: diseño de la infografía y creación del videojuego<br />Gran grupo: puesta en común y presentaciones<br />Espacios: aula ordinaria (Tecnología norte) con acceso a ordenadores o dispositivos digitales, proyector e internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997636982-ke30yd7n5</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997636982-ke30yd7n5</odePageId>
+      <odeBlockId>block-1777997638993-6l7mfeh6j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997636982-ke30yd7n5</odePageId>
+          <odeBlockId>block-1777997638993-6l7mfeh6j</odeBlockId>
+          <odeIdeviceId>idevice-1777997638991-hd6q9nafr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>6 sesiones (55 minutos cada una):</p>
+<p>Sesión 1: Introducción al job search + análisis de CVs<br /></p>
+<p>Sesión 2: Elaboración del CV en inglés<br /></p>
+<p>Sesión 3: Carta de presentación + preparación de entrevistas<br /></p>
+<p>Sesión 4: Diseño de infografía en Canva (CV + entrevistas)<br /></p>
+<p>Sesión 5: Creación del videojuego/app interactiva</p>
+<p>Sesión 6: Presentaciones</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997638991-hd6q9nafr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>6 sesiones (55 minutos cada una):</p>\n<p>Sesión 1: Introducción al job search + análisis de CVs<br /></p>\n<p>Sesión 2: Elaboración del CV en inglés<br /></p>\n<p>Sesión 3: Carta de presentación + preparación de entrevistas<br /></p>\n<p>Sesión 4: Diseño de infografía en Canva (CV + entrevistas)<br /></p>\n<p>Sesión 5: Creación del videojuego/app interactiva</p>\n<p>Sesión 6: Presentaciones</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997814779-ghk108lfx</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Productos finales</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Productos finales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997814779-ghk108lfx</odePageId>
+      <odeBlockId>block-1777997817008-3ozogg992</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997814779-ghk108lfx</odePageId>
+          <odeBlockId>block-1777997817008-3ozogg992</odeBlockId>
+          <odeIdeviceId>idevice-1777997817006-37zkqfk6s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Infografía interactiva sobre elaboración de CVs y entrevistas de trabajo (Canva)<br />Videojuego o app interactiva tipo quiz, escape game o simulador de entrevistas para practicar lo aprendido (Genially, Gemini, Wordwall, Quizizz, etc.)<br />Currículum Vitae en inglés<br />Carta de presentación en inglés<br />Simulación de entrevista de trabajo (role-play)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997817006-37zkqfk6s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Infografía interactiva sobre elaboración de CVs y entrevistas de trabajo (Canva)<br />Videojuego o app interactiva tipo quiz, escape game o simulador de entrevistas para practicar lo aprendido (Genially, Gemini, Wordwall, Quizizz, etc.)<br />Currículum Vitae en inglés<br />Carta de presentación en inglés<br />Simulación de entrevista de trabajo (role-play)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997882609-vzgewi23q</odePageId>
+  <odeParentPageId>page-mossrkhm-aafolvieb</odeParentPageId>
+  <pageName>Herramientas y recursos</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas y recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997882609-vzgewi23q</odePageId>
+      <odeBlockId>block-1777997884728-86pzriube</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997882609-vzgewi23q</odePageId>
+          <odeBlockId>block-1777997884728-86pzriube</odeBlockId>
+          <odeIdeviceId>idevice-1777997884726-ub979crvt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Alumnado:</strong></p>
+<p>Canva (infografías)<br />Genially / Wordwall / Quizizz (actividad interactiva o videojuego)<br />Google Docs<br />Diccionarios online (WordReference)<br /><br /><strong>Docente:</strong></p>
+<p>Canva<br />Genially<br />Google Drive<br />Formularios (Google Forms) para evaluación<br /><strong></strong></p>
+<p><strong>Recursos complementarios:</strong></p>
+<p>Ejemplos de CV y cover letters<br />Vídeos de entrevistas de trabajo<br />Portales de empleo (InfoJobs, LinkedIn)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997884726-ub979crvt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Alumnado:</strong></p>\n<p>Canva (infografías)<br />Genially / Wordwall / Quizizz (actividad interactiva o videojuego)<br />Google Docs<br />Diccionarios online (WordReference)<br /><br /><strong>Docente:</strong></p>\n<p>Canva<br />Genially<br />Google Drive<br />Formularios (Google Forms) para evaluación<br /><strong></strong></p>\n<p><strong>Recursos complementarios:</strong></p>\n<p>Ejemplos de CV y cover letters<br />Vídeos de entrevistas de trabajo<br />Portales de empleo (InfoJobs, LinkedIn)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-5xhw7dstq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-5xhw7dstq</odePageId>
+      <odeBlockId>block-mossrkhm-1kfe149bo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-5xhw7dstq</odePageId>
+          <odeBlockId>block-mossrkhm-1kfe149bo</odeBlockId>
+          <odeIdeviceId>idevice-mossrkhm-3su58ob52</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se diseña con el objetivo de acercar al alumnado a una realidad inmediata: su futura inserción en el mercado laboral. En el contexto del Ciclo Formativo de Grado Medio en Administración y Gestión, resulta fundamental que el alumnado adquiera herramientas prácticas para desenvolverse en procesos de búsqueda de empleo en lengua inglesa.</p>
+<p>El carácter aplicado de esta propuesta permite trabajar contenidos funcionales y significativos, como la elaboración del currículum vitae, la redacción de cartas de presentación y la preparación de entrevistas de trabajo. Estos aprendizajes se abordan desde una perspectiva competencial, favoreciendo la transferencia a situaciones reales.</p>
+<p>Además, se pretende aumentar la motivación de un grupo con baja implicación mediante la creación de productos digitales útiles y cercanos a sus intereses (infografías y recursos interactivos), fomentando así un aprendizaje activo y significativo.</p>
+<p>El impacto esperado es que el alumnado desarrolle mayor autonomía, confianza y competencia comunicativa en inglés en contextos profesionales básicos, así como habilidades digitales y sociales necesarias para su futuro académico y laboral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mossrkhm-3su58ob52","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se diseña con el objetivo de acercar al alumnado a una realidad inmediata: su futura inserción en el mercado laboral. En el contexto del Ciclo Formativo de Grado Medio en Administración y Gestión, resulta fundamental que el alumnado adquiera herramientas prácticas para desenvolverse en procesos de búsqueda de empleo en lengua inglesa.</p>\n<p>El carácter aplicado de esta propuesta permite trabajar contenidos funcionales y significativos, como la elaboración del currículum vitae, la redacción de cartas de presentación y la preparación de entrevistas de trabajo. Estos aprendizajes se abordan desde una perspectiva competencial, favoreciendo la transferencia a situaciones reales.</p>\n<p>Además, se pretende aumentar la motivación de un grupo con baja implicación mediante la creación de productos digitales útiles y cercanos a sus intereses (infografías y recursos interactivos), fomentando así un aprendizaje activo y significativo.</p>\n<p>El impacto esperado es que el alumnado desarrolle mayor autonomía, confianza y competencia comunicativa en inglés en contextos profesionales básicos, así como habilidades digitales y sociales necesarias para su futuro académico y laboral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777997197856-jlzvvzjtk</odePageId>
+  <odeParentPageId>page-mossrkhm-5xhw7dstq</odeParentPageId>
+  <pageName>ODS</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ODS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777997197856-jlzvvzjtk</odePageId>
+      <odeBlockId>block-1777997200246-pps6kfiji</odeBlockId>
+      <blockName>Relación con los ODS y retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777997197856-jlzvvzjtk</odePageId>
+          <odeBlockId>block-1777997200246-pps6kfiji</odeBlockId>
+          <odeIdeviceId>idevice-1777997200244-367nbgzhe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje contribuye al desarrollo de varios <strong>Objetivos de Desarrollo Sostenible</strong> (ODS), especialmente:</p>
+<p>ODS 4: Educación de calidad, promoviendo aprendizajes relevantes y aplicables a la vida real.<br />ODS 8: Trabajo decente y crecimiento económico, al preparar al alumnado para su inserción en el mundo laboral.<br />ODS 9: Industria, innovación e infraestructura, mediante el uso de herramientas digitales en la creación de contenidos.<br />ODS 17: Alianzas para lograr los objetivos, fomentando el trabajo colaborativo.<br /></p>
+<p>Asimismo, responde a los principales <strong>retos del siglo XXI</strong>, desarrollando en el alumnado:</p>
+<p>Competencia digital<br />Comunicación efectiva en lengua extranjera<br />Pensamiento crítico y autonomía<br />Creatividad<br />Trabajo colaborativo<br />Empleabilidad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997200244-367nbgzhe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje contribuye al desarrollo de varios <strong>Objetivos de Desarrollo Sostenible</strong> (ODS), especialmente:</p>\n<p>ODS 4: Educación de calidad, promoviendo aprendizajes relevantes y aplicables a la vida real.<br />ODS 8: Trabajo decente y crecimiento económico, al preparar al alumnado para su inserción en el mundo laboral.<br />ODS 9: Industria, innovación e infraestructura, mediante el uso de herramientas digitales en la creación de contenidos.<br />ODS 17: Alianzas para lograr los objetivos, fomentando el trabajo colaborativo.<br /></p>\n<p>Asimismo, responde a los principales <strong>retos del siglo XXI</strong>, desarrollando en el alumnado:</p>\n<p>Competencia digital<br />Comunicación efectiva en lengua extranjera<br />Pensamiento crítico y autonomía<br />Creatividad<br />Trabajo colaborativo<br />Empleabilidad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-uac25ys2x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-uac25ys2x</odePageId>
+      <odeBlockId>block-1777996218260-m1fytmhj1</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-uac25ys2x</odePageId>
+          <odeBlockId>block-1777996218260-m1fytmhj1</odeBlockId>
+          <odeIdeviceId>idevice-1777996218257-oklfjecwv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Elementos curriculares</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996218257-oklfjecwv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Elementos curriculares</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777996380678-766e89n5q</odePageId>
+  <odeParentPageId>page-mossrkhm-uac25ys2x</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777996380678-766e89n5q</odePageId>
+      <odeBlockId>block-1777996384392-dpk4wflxc</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777996380678-766e89n5q</odePageId>
+          <odeBlockId>block-1777996384392-dpk4wflxc</odeBlockId>
+          <odeIdeviceId>idevice-1777996384389-ev97fq6bp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Comprender e interpretar textos orales y escritos</strong> relacionados con situaciones habituales del ámbito profesional, identificando información relevante en contextos de búsqueda de empleo (ofertas, CV, entrevistas).<br /><strong>Producir textos escritos</strong> claros y adecuados (currículum vitae y carta de presentación) en lengua inglesa, utilizando estructuras y léxico propios del ámbito laboral.<br /><strong>Interactuar oralmente</strong> de forma eficaz en situaciones profesionales simuladas, como entrevistas de trabajo, utilizando estrategias de comunicación adecuadas.<br /><strong>Mediar en situaciones comunicativas</strong> propias del entorno profesional, reformulando o explicando información relacionada con procesos de selección.<br /><strong>Utilizar herramientas digitales y recursos online</strong> de forma autónoma y responsable para la elaboración de documentos y productos relacionados con la búsqueda de empleo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996384389-ev97fq6bp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Comprender e interpretar textos orales y escritos</strong> relacionados con situaciones habituales del ámbito profesional, identificando información relevante en contextos de búsqueda de empleo (ofertas, CV, entrevistas).<br /><strong>Producir textos escritos</strong> claros y adecuados (currículum vitae y carta de presentación) en lengua inglesa, utilizando estructuras y léxico propios del ámbito laboral.<br /><strong>Interactuar oralmente</strong> de forma eficaz en situaciones profesionales simuladas, como entrevistas de trabajo, utilizando estrategias de comunicación adecuadas.<br /><strong>Mediar en situaciones comunicativas</strong> propias del entorno profesional, reformulando o explicando información relacionada con procesos de selección.<br /><strong>Utilizar herramientas digitales y recursos online</strong> de forma autónoma y responsable para la elaboración de documentos y productos relacionados con la búsqueda de empleo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777996482476-y5arkt8w6</odePageId>
+  <odeParentPageId>page-mossrkhm-uac25ys2x</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777996482476-y5arkt8w6</odePageId>
+      <odeBlockId>block-1777996486245-8ic4is7ts</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777996482476-y5arkt8w6</odePageId>
+          <odeBlockId>block-1777996486245-8ic4is7ts</odeBlockId>
+          <odeIdeviceId>idevice-1777996486241-aqcrmodi6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1.1. Identificar la información principal y específica en textos escritos y orales sobre ofertas de empleo y procesos de selección.</p>
+<p>1.2. Comprender instrucciones y modelos de CV, cartas de presentación y entrevistas laborales.</p>
+<p>2.1. Elaborar un currículum vitae en inglés con estructura adecuada, claridad y corrección básica.</p>
+<p>2.2. Redactar una carta de presentación coherente, adaptada a una oferta de empleo concreta.</p>
+<p>2.3. Utilizar léxico y expresiones propias del ámbito laboral de forma adecuada.</p>
+<p>3.1. Participar en simulaciones de entrevistas de trabajo mostrando comprensión, fluidez básica y adecuación.</p>
+<p>3.2. Utilizar estrategias comunicativas (pedir aclaraciones, reformular, responder preguntas) en interacción oral.</p>
+<p>4.1. Explicar de forma sencilla información relacionada con el perfil profesional propio o de otros.</p>
+<p>5.1. Utilizar herramientas digitales (Canva, Genially, etc.) para crear productos adecuados a la tarea propuesta.</p>
+<p>5.2. Integrar contenidos lingüísticos y digitales en productos finales (infografía y recurso interactivo).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996486241-aqcrmodi6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1.1. Identificar la información principal y específica en textos escritos y orales sobre ofertas de empleo y procesos de selección.</p>\n<p>1.2. Comprender instrucciones y modelos de CV, cartas de presentación y entrevistas laborales.</p>\n<p>2.1. Elaborar un currículum vitae en inglés con estructura adecuada, claridad y corrección básica.</p>\n<p>2.2. Redactar una carta de presentación coherente, adaptada a una oferta de empleo concreta.</p>\n<p>2.3. Utilizar léxico y expresiones propias del ámbito laboral de forma adecuada.</p>\n<p>3.1. Participar en simulaciones de entrevistas de trabajo mostrando comprensión, fluidez básica y adecuación.</p>\n<p>3.2. Utilizar estrategias comunicativas (pedir aclaraciones, reformular, responder preguntas) en interacción oral.</p>\n<p>4.1. Explicar de forma sencilla información relacionada con el perfil profesional propio o de otros.</p>\n<p>5.1. Utilizar herramientas digitales (Canva, Genially, etc.) para crear productos adecuados a la tarea propuesta.</p>\n<p>5.2. Integrar contenidos lingüísticos y digitales en productos finales (infografía y recurso interactivo).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777996553540-5uu49h557</odePageId>
+  <odeParentPageId>page-mossrkhm-uac25ys2x</odeParentPageId>
+  <pageName>Descriptores del perfil de salida</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descriptores del perfil de salida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777996553540-5uu49h557</odePageId>
+      <odeBlockId>block-1777996557754-ocqf002fm</odeBlockId>
+      <blockName>Descriptores del perfil de salida</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777996553540-5uu49h557</odePageId>
+          <odeBlockId>block-1777996557754-ocqf002fm</odeBlockId>
+          <odeIdeviceId>idevice-1777996557752-d1lzkib57</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>CCL (Competencia en comunicación lingüística):</strong><br />Expresa e interpreta mensajes orales y escritos en lengua inglesa en contextos profesionales básicos.<br /><strong>CD (Competencia digital):</strong><br />Utiliza herramientas digitales para crear contenidos y resolver tareas de forma autónoma.<br /><strong>CP (Competencia plurilingüe):</strong><br />Usa el inglés como herramienta de comunicación en situaciones reales relacionadas con el empleo.<br /><strong>CPSAA (Competencia personal, social y de aprender a aprender):</strong><br />Desarrolla autonomía, confianza y estrategias para enfrentarse a situaciones nuevas como entrevistas laborales.<br /><strong>CE (Competencia emprendedora):</strong><br />Muestra iniciativa en la elaboración de su perfil profesional y en la preparación para el acceso al empleo.<br /><strong>CC (Competencia ciudadana):</strong><br />Participa de forma responsable en situaciones comunicativas y colabora con el grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996557752-d1lzkib57","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>CCL (Competencia en comunicación lingüística):</strong><br />Expresa e interpreta mensajes orales y escritos en lengua inglesa en contextos profesionales básicos.<br /><strong>CD (Competencia digital):</strong><br />Utiliza herramientas digitales para crear contenidos y resolver tareas de forma autónoma.<br /><strong>CP (Competencia plurilingüe):</strong><br />Usa el inglés como herramienta de comunicación en situaciones reales relacionadas con el empleo.<br /><strong>CPSAA (Competencia personal, social y de aprender a aprender):</strong><br />Desarrolla autonomía, confianza y estrategias para enfrentarse a situaciones nuevas como entrevistas laborales.<br /><strong>CE (Competencia emprendedora):</strong><br />Muestra iniciativa en la elaboración de su perfil profesional y en la preparación para el acceso al empleo.<br /><strong>CC (Competencia ciudadana):</strong><br />Participa de forma responsable en situaciones comunicativas y colabora con el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777996628109-5qrjbguwp</odePageId>
+  <odeParentPageId>page-mossrkhm-uac25ys2x</odeParentPageId>
+  <pageName>Saberes básicos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes básicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777996628109-5qrjbguwp</odePageId>
+      <odeBlockId>block-1777996630637-0l9zta4uk</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777996628109-5qrjbguwp</odePageId>
+          <odeBlockId>block-1777996630637-0l9zta4uk</odeBlockId>
+          <odeIdeviceId>idevice-1777996630635-dg3hr1aw0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Comunicación en lengua inglesa en el ámbito profesional</strong><br />Léxico específico relacionado con el empleo (skills, experience, qualifications, etc.)<br />Expresiones habituales en entrevistas de trabajo<br />Comprensión de ofertas de empleo<br /><strong>Producción de textos profesionales</strong><br />Estructura y características del currículum vitae<br />Estructura y redacción de la carta de presentación<br />Uso de conectores básicos y fórmulas formales<br /><strong>Interacción oral</strong><br />Estrategias para responder preguntas en entrevistas<br />Lenguaje funcional: presentarse, hablar de experiencia, habilidades y objetivos<br /><strong>Competencia digital aplicada</strong><br />Uso de herramientas digitales para la creación de contenidos (Canva, Genially…)<br />Búsqueda y selección de información fiable en internet<br />Creación de productos digitales (infografía, recurso interactivo)<br /><strong>Estrategias de aprendizaje</strong><br />Uso de modelos y ejemplos<br />Revisión y mejora de producciones propias (autocorrección básica)<br />Trabajo colaborativo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996630635-dg3hr1aw0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Comunicación en lengua inglesa en el ámbito profesional</strong><br />Léxico específico relacionado con el empleo (skills, experience, qualifications, etc.)<br />Expresiones habituales en entrevistas de trabajo<br />Comprensión de ofertas de empleo<br /><strong>Producción de textos profesionales</strong><br />Estructura y características del currículum vitae<br />Estructura y redacción de la carta de presentación<br />Uso de conectores básicos y fórmulas formales<br /><strong>Interacción oral</strong><br />Estrategias para responder preguntas en entrevistas<br />Lenguaje funcional: presentarse, hablar de experiencia, habilidades y objetivos<br /><strong>Competencia digital aplicada</strong><br />Uso de herramientas digitales para la creación de contenidos (Canva, Genially…)<br />Búsqueda y selección de información fiable en internet<br />Creación de productos digitales (infografía, recurso interactivo)<br /><strong>Estrategias de aprendizaje</strong><br />Uso de modelos y ejemplos<br />Revisión y mejora de producciones propias (autocorrección básica)<br />Trabajo colaborativo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-hv951qn43</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-hv951qn43</odePageId>
+      <odeBlockId>block-1777996744807-dtzt3xwvl</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-hv951qn43</odePageId>
+          <odeBlockId>block-1777996744807-dtzt3xwvl</odeBlockId>
+          <odeIdeviceId>idevice-1777996744805-u5ukebcay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El eje central de la situación de aprendizaje es la elaboración de productos finales significativos (currículum vitae, carta de presentación, infografía y recurso interactivo), lo que sitúa al alumnado ante una tarea realista: prepararse para un proceso de selección laboral.</p>
+<p>A través del ABP, el alumnado:</p>
+<p>Investiga y analiza modelos reales<br />Aplica los conocimientos adquiridos en tareas prácticas<br />Desarrolla productos útiles para su futuro profesional<br />Trabaja de forma progresiva hacia un objetivo final<br /> <br /><strong>Aprendizaje cooperativo</strong><br />Se fomenta el trabajo en equipo mediante actividades en parejas y pequeños grupos, especialmente en la preparación de entrevistas, la creación de la infografía y el diseño del recurso interactivo.</p>
+<p>Esto permite:</p>
+<p>Intercambiar ideas y conocimientos<br />Desarrollar habilidades sociales<br />Fomentar la responsabilidad compartida<br />Apoyar a alumnado con diferentes ritmos de aprendizaje<br /> <br /><strong>Gamificación</strong><br />La incorporación de elementos lúdicos se concreta en la creación de un videojuego o recurso interactivo (tipo quiz, escape game o simulador), que permite reforzar los contenidos trabajados de forma motivadora.</p>
+<p>La gamificación:</p>
+<p>Aumenta la implicación del alumnado<br />Refuerza el aprendizaje mediante la práctica<br />Reduce la ansiedad ante el uso del inglés<br />Favorece un clima de aula positivo<br /> <br /><strong>Role-play (simulación de situaciones reales)</strong><br />La simulación de entrevistas de trabajo permite al alumnado practicar la interacción oral en un contexto realista y significativo.</p>
+<p>Mediante el role-play, el alumnado:</p>
+<p>Desarrolla la expresión oral<br />Gana confianza en situaciones comunicativas<br />Aplica el lenguaje funcional aprendido<br />Recibe retroalimentación inmediata<br /> <br /><strong>Uso de herramientas digitales (DUA)</strong><br />Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se integran diversas herramientas digitales que permiten ofrecer múltiples formas de representación, expresión y participación.</p>
+<p>Canva (infografía/ CV)<br />Genially / Gemini/ Wordwall / Quizizz (recurso interactivo)<br />Google Docs (producción escrita)<br />Esto facilita la inclusión, la personalización del aprendizaje y la adaptación a distintos estilos y ritmos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996744805-u5ukebcay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El eje central de la situación de aprendizaje es la elaboración de productos finales significativos (currículum vitae, carta de presentación, infografía y recurso interactivo), lo que sitúa al alumnado ante una tarea realista: prepararse para un proceso de selección laboral.</p>\n<p>A través del ABP, el alumnado:</p>\n<p>Investiga y analiza modelos reales<br />Aplica los conocimientos adquiridos en tareas prácticas<br />Desarrolla productos útiles para su futuro profesional<br />Trabaja de forma progresiva hacia un objetivo final<br /> <br /><strong>Aprendizaje cooperativo</strong><br />Se fomenta el trabajo en equipo mediante actividades en parejas y pequeños grupos, especialmente en la preparación de entrevistas, la creación de la infografía y el diseño del recurso interactivo.</p>\n<p>Esto permite:</p>\n<p>Intercambiar ideas y conocimientos<br />Desarrollar habilidades sociales<br />Fomentar la responsabilidad compartida<br />Apoyar a alumnado con diferentes ritmos de aprendizaje<br /> <br /><strong>Gamificación</strong><br />La incorporación de elementos lúdicos se concreta en la creación de un videojuego o recurso interactivo (tipo quiz, escape game o simulador), que permite reforzar los contenidos trabajados de forma motivadora.</p>\n<p>La gamificación:</p>\n<p>Aumenta la implicación del alumnado<br />Refuerza el aprendizaje mediante la práctica<br />Reduce la ansiedad ante el uso del inglés<br />Favorece un clima de aula positivo<br /> <br /><strong>Role-play (simulación de situaciones reales)</strong><br />La simulación de entrevistas de trabajo permite al alumnado practicar la interacción oral en un contexto realista y significativo.</p>\n<p>Mediante el role-play, el alumnado:</p>\n<p>Desarrolla la expresión oral<br />Gana confianza en situaciones comunicativas<br />Aplica el lenguaje funcional aprendido<br />Recibe retroalimentación inmediata<br /> <br /><strong>Uso de herramientas digitales (DUA)</strong><br />Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se integran diversas herramientas digitales que permiten ofrecer múltiples formas de representación, expresión y participación.</p>\n<p>Canva (infografía/ CV)<br />Genially / Gemini/ Wordwall / Quizizz (recurso interactivo)<br />Google Docs (producción escrita)<br />Esto facilita la inclusión, la personalización del aprendizaje y la adaptación a distintos estilos y ritmos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-6nv2pgmqn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-6nv2pgmqn</odePageId>
+      <odeBlockId>block-1777997001394-1lhlgoahf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-6nv2pgmqn</odePageId>
+          <odeBlockId>block-1777997001394-1lhlgoahf</odeBlockId>
+          <odeIdeviceId>idevice-1777997001391-buydlqedo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se vincula de forma directa con distintos planes y programas del centro, contribuyendo a su desarrollo desde el módulo de Inglés Complementario:</p>
+<p> <br /><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br />Se trabaja el desarrollo de la competencia comunicativa a través de:</p>
+<p>La comprensión de textos reales (ofertas de empleo, modelos de CV y cartas)<br />La producción de textos escritos funcionales (currículum vitae y carta de presentación)<br />La búsqueda, selección y tratamiento de información relevante<br />Todo ello favorece el uso significativo de la lengua en contextos reales.</p>
+<p> <br /><strong>PAD (Plan de Atención a la Diversidad)</strong><br />La propuesta incorpora medidas de atención a la diversidad mediante:</p>
+<p>Diferentes tipos de agrupamiento (individual, parejas, grupos)<br />Uso de herramientas digitales que permiten adaptar el ritmo y el nivel<br />Apoyo visual y modelos para facilitar la comprensión<br />Actividades variadas que atienden a distintos estilos de aprendizaje<br />Esto garantiza una mayor inclusión y participación de todo el alumnado.</p>
+<p> <br /><strong>Plan Digital de Centro</strong><br />La situación de aprendizaje contribuye al desarrollo de la competencia digital a través del uso de herramientas como:</p>
+<p>Canva (creación de infografías)<br />Genially / Wordwall / Quizizz (diseño de recursos interactivos)<br />Procesadores de texto y recursos online<br />El alumnado no solo consume contenido digital, sino que lo crea, desarrollando así una competencia digital crítica y aplicada.</p>
+<p> <br /><strong>Plan de Acción Tutorial (PAT)</strong><br />Esta propuesta contribuye al desarrollo personal y profesional del alumnado, fomentando:</p>
+<p>La reflexión sobre su perfil profesional<br />La toma de decisiones sobre su futuro laboral<br />La mejora de la autoestima y la confianza</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997001391-buydlqedo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se vincula de forma directa con distintos planes y programas del centro, contribuyendo a su desarrollo desde el módulo de Inglés Complementario:</p>\n<p> <br /><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br />Se trabaja el desarrollo de la competencia comunicativa a través de:</p>\n<p>La comprensión de textos reales (ofertas de empleo, modelos de CV y cartas)<br />La producción de textos escritos funcionales (currículum vitae y carta de presentación)<br />La búsqueda, selección y tratamiento de información relevante<br />Todo ello favorece el uso significativo de la lengua en contextos reales.</p>\n<p> <br /><strong>PAD (Plan de Atención a la Diversidad)</strong><br />La propuesta incorpora medidas de atención a la diversidad mediante:</p>\n<p>Diferentes tipos de agrupamiento (individual, parejas, grupos)<br />Uso de herramientas digitales que permiten adaptar el ritmo y el nivel<br />Apoyo visual y modelos para facilitar la comprensión<br />Actividades variadas que atienden a distintos estilos de aprendizaje<br />Esto garantiza una mayor inclusión y participación de todo el alumnado.</p>\n<p> <br /><strong>Plan Digital de Centro</strong><br />La situación de aprendizaje contribuye al desarrollo de la competencia digital a través del uso de herramientas como:</p>\n<p>Canva (creación de infografías)<br />Genially / Wordwall / Quizizz (diseño de recursos interactivos)<br />Procesadores de texto y recursos online<br />El alumnado no solo consume contenido digital, sino que lo crea, desarrollando así una competencia digital crítica y aplicada.</p>\n<p> <br /><strong>Plan de Acción Tutorial (PAT)</strong><br />Esta propuesta contribuye al desarrollo personal y profesional del alumnado, fomentando:</p>\n<p>La reflexión sobre su perfil profesional<br />La toma de decisiones sobre su futuro laboral<br />La mejora de la autoestima y la confianza</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-jd94x9x80</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-jd94x9x80</odePageId>
+      <odeBlockId>block-1777998322897-fw8m0mz90</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-jd94x9x80</odePageId>
+          <odeBlockId>block-1777998322897-fw8m0mz90</odeBlockId>
+          <odeIdeviceId>idevice-1777998322894-0yvrsd20x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el fin de enriquecer la situación de aprendizaje y acercar al alumnado a contextos reales del ámbito laboral, se proponen las siguientes actividades complementarias:</p>
+<p> <br /><strong>Actividades complementarias</strong><br />Simulación de entrevistas con profesorado invitado. Participación de otros docentes o personal del centro que actúan como entrevistadores, aportando realismo a la actividad.<br />Exposición de infografías. Presentación de las infografías elaboradas por el alumnado en el aula o en espacios comunes del centro, fomentando la difusión del trabajo realizado.<br />Taller de empleabilidad. Sesión práctica centrada en la mejora del CV y habilidades para entrevistas, con orientación personalizada.<br /> <br /><strong>Actividades extraescolares (siempre dentro de las posibilidades)</strong><br />Charla de un profesional o antiguo alumno/a.<br />Invitación a una persona con experiencia laboral que comparta su proceso de búsqueda de empleo, especialmente en contextos donde el inglés sea relevante.<br />Visita a una empresa o entidad. <br /> <br /><strong>Finalidad</strong><br />Estas actividades tienen como objetivo:</p>
+<p>Conectar el aprendizaje con la realidad profesional<br />Aumentar la motivación del alumnado<br />Desarrollar habilidades sociales y comunicativas<br />Favorecer la orientación académica y laboral<br /><br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998322894-0yvrsd20x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el fin de enriquecer la situación de aprendizaje y acercar al alumnado a contextos reales del ámbito laboral, se proponen las siguientes actividades complementarias:</p>\n<p> <br /><strong>Actividades complementarias</strong><br />Simulación de entrevistas con profesorado invitado. Participación de otros docentes o personal del centro que actúan como entrevistadores, aportando realismo a la actividad.<br />Exposición de infografías. Presentación de las infografías elaboradas por el alumnado en el aula o en espacios comunes del centro, fomentando la difusión del trabajo realizado.<br />Taller de empleabilidad. Sesión práctica centrada en la mejora del CV y habilidades para entrevistas, con orientación personalizada.<br /> <br /><strong>Actividades extraescolares (siempre dentro de las posibilidades)</strong><br />Charla de un profesional o antiguo alumno/a.<br />Invitación a una persona con experiencia laboral que comparta su proceso de búsqueda de empleo, especialmente en contextos donde el inglés sea relevante.<br />Visita a una empresa o entidad. <br /> <br /><strong>Finalidad</strong><br />Estas actividades tienen como objetivo:</p>\n<p>Conectar el aprendizaje con la realidad profesional<br />Aumentar la motivación del alumnado<br />Desarrollar habilidades sociales y comunicativas<br />Favorecer la orientación académica y laboral<br /><br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossrkhm-tu01sk7sy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossrkhm-tu01sk7sy</odePageId>
+      <odeBlockId>block-1777998086846-7fantnm4b</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossrkhm-tu01sk7sy</odePageId>
+          <odeBlockId>block-1777998086846-7fantnm4b</odeBlockId>
+          <odeIdeviceId>idevice-1777998086844-g32q64zpd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>licencia CC BY-SA 4.0</p>
+<p>Enlace</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998086844-g32q64zpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>licencia CC BY-SA 4.0</p>\n<p>Enlace</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
